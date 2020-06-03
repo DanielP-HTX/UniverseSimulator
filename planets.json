@@ -1,0 +1,220 @@
+{
+  "planets": [
+    {
+      "name": "Sun",
+      "xpos": 0,
+      "ypos": 0,
+      "xspeed": 0,
+      "yspeed": 0,
+      "mass": 333054000,
+      "radius": 40,
+      "wiki": "Sun",
+      "data": [
+        "Sun",
+        "333054000",
+        "1392700 km",
+        "5778 C",
+        "0 days",
+        "28",
+        "0 m"
+      ],
+      "color": [
+        255,
+        100,
+        50
+      ]
+    },
+    {
+      "name": "Mercury",
+      "xpos": -58,
+      "ypos": 0,
+      "xspeed": 0,
+      "yspeed": -12,
+      "mass": 55,
+      "radius": 8,
+      "wiki": "mercury(planet)",
+      "data": [
+        "Mercury",
+        "55",
+        "4878 km",
+        "-183 C to 427 C",
+        "88 days",
+        "0.38",
+        "57900000 km"
+      ],
+      "color": [
+        100,
+        200,
+        250
+      ]
+    },
+    {
+      "name": "Venus",
+      "xpos": -108,
+      "ypos": 0,
+      "xspeed": 0,
+      "yspeed": -8.5,
+      "mass": 815,
+      "radius": 12,
+      "wiki": "Venus",
+      "data": [
+        "Venus",
+        "815",
+        "12104 km",
+        "480 C",
+        "224 days",
+        "0.9",
+        "108160000 km"
+      ],
+      "color": [
+        255,
+        230,
+        0
+      ]
+    },
+    {
+      "name": "Earth",
+      "xpos": -150,
+      "ypos": 0,
+      "xspeed": 0,
+      "yspeed": -7.2,
+      "mass": 1000,
+      "radius": 14,
+      "wiki": "Earth(planet)",
+      "data": [
+        "Earth",
+        "1000",
+        "12756 km",
+        "14 C",
+        "365 days",
+        "1",
+        "149600000 km"
+      ],
+      "color": [
+        10,
+        250,
+        80
+      ]
+    },
+    {
+      "name": "Mars",
+      "xpos": -228,
+      "ypos": 0,
+      "xspeed": 0,
+      "yspeed": -5.8,
+      "mass": 107,
+      "radius": 9,
+      "wiki": "Mars(planet)",
+      "data": [
+        "Mars",
+        "107",
+        "6794 km",
+        "-63 C",
+        "687 days",
+        "0.38",
+        "227936640 km"
+      ],
+      "color": [
+        255,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Jupiter",
+      "xpos": -778,
+      "ypos": 0,
+      "xspeed": 0,
+      "yspeed": -3.15,
+      "mass": 317800,
+      "radius": 20,
+      "wiki": "Jupiter",
+      "data": [
+        "Jupiter",
+        "317800",
+        "142984 km",
+        "-130 C",
+        "11.86 years",
+        "2.64",
+        "77836900 km"
+      ],
+      "color": [
+        255,
+        150,
+        0
+      ]
+    },
+    {
+      "name": "Saturn",
+      "xpos": -1500,
+      "ypos": 0,
+      "xspeed": 0,
+      "yspeed": -2.22,
+      "mass": 95200,
+      "radius": 14,
+      "wiki": "Saturn",
+      "data": [
+        "Saturn",
+        "95200",
+        "120536 km",
+        "-130 C",
+        "29 years",
+        "1.16",
+        "1427034000 km"
+      ],
+      "color": [
+        0,
+        150,
+        0
+      ]
+    },
+    {
+      "name": "Uranus",
+      "xpos": -3000,
+      "ypos": 0,
+      "xspeed": 0,
+      "yspeed": -1.57,
+      "mass": 14500,
+      "radius": 25,
+      "wiki": "Uranus",
+      "data": [
+        "Uranus",
+        14500,
+        "51118 km",
+        "-200 C",
+        "84 years",
+        "1.11",
+        "2870658186 km"
+      ],
+      "color": [
+        0,
+        0,
+        255
+      ]
+    },
+    {
+      "name": "Neptune",
+      "xpos": -4500,
+      "ypos": 0,
+      "xspeed": 0,
+      "yspeed": -1.285,
+      "mass": 17100,
+      "radius": 25,
+      "wiki": "Neptune(planet)",
+      "data": [
+        "Neptune",
+        17100,
+        "49532 km",
+        "-200 C",
+        "164.8 years",
+        "1.21",
+        "4496976000 km"
+      ],
+      "color": [
+        0,
+        255,
+        255
+      ]
+    }
+  ]
+}
